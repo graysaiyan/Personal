@@ -1,0 +1,57 @@
+[
+  {
+    "studio": "Oasis Design Studio",
+    "website": "https://www.oasisdesign.co.uk",
+    "city": "Belfast",
+    "country": "UK",
+    "to": "hello@oasisdesign.co.uk",
+    "email_source_url": "https://www.oasisdesign.co.uk/contact-us.html",
+    "weakness_evidence": "Site built on Adobe Muse (generator 2018.1.1.386; Muse discontinued 2018, unsupported since 2020). Footer reads 'Copyright © 2023' on homepage and 'Copyright © 2017' on contact-us.html; blank.gif?crc= placeholder images throughout.",
+    "subject": "oasis design site",
+    "body": "Hi Oasis team,\n\nThe work for arc21 and NIMA on your portfolio shows real range across brand and print.\n\nOne thing I noticed: your site still runs on Adobe Muse, which Adobe stopped updating years ago, and the contact page footer still says 2017. An old build makes good work look older than it is.\n\nI rebuild studio sites on Framer, live in about 7 days at a fixed price.\n\nWant me to show you what Oasis could look like?\n\nCobi\nCobi Studio"
+  },
+  {
+    "studio": "Conrad Design",
+    "website": "https://www.conradesign.com.au",
+    "city": "Hobart",
+    "country": "Australia",
+    "to": "enquiry@conradesign.com.au",
+    "email_source_url": "https://www.conradesign.com.au/",
+    "weakness_evidence": "Footer reads 'Designed by conrad design © 2016 - 2024' (now 2026). Single-page WordPress/WPBakery site: every nav item is an on-page anchor (#section-portfolio etc.), so projects like Stringlab Rebrand and Hub Brewing have no case study pages.",
+    "subject": "conrad design site",
+    "body": "Hi Conrad,\n\nThe Stringlab rebrand and Hub Brewing identity are sharp, and your Hobart client list is impressive.\n\nOne thing I noticed: the footer still reads 2016 to 2024, and each project is just a thumbnail with no page of its own. New clients cannot see the thinking behind the work.\n\nI rebuild studio sites on Framer, live in about 7 days at a fixed price, with no retainer.\n\nWant me to show you what Conrad Design could look like?\n\nCobi\nCobi Studio"
+  },
+  {
+    "studio": "Janus Design",
+    "website": "https://janusdesign.ie",
+    "city": "Glin, Co. Limerick",
+    "country": "Ireland",
+    "to": "info@janusdesign.ie",
+    "email_source_url": "https://janusdesign.ie/",
+    "weakness_evidence": "Footer reads 'Copyright Janus Design @ 2022' (now 2026). One-page WordPress site where Our Work/Team/Contact are all #anchors on the homepage.",
+    "subject": "janus design site",
+    "body": "Hi Tom,\n\nThe branding for TopPart and All-Star Logistics on your site is clean and clear.\n\nOne thing I noticed: the footer still says Copyright 2022. It is a small detail, but visitors read it as a sign the site, and maybe the studio, has gone quiet.\n\nI rebuild studio sites on Framer, live in about 7 days at a fixed price, with no retainer.\n\nWant me to show you what Janus could look like?\n\nCobi\nCobi Studio"
+  },
+  {
+    "studio": "Two from Two",
+    "website": "https://www.twofromtwo.com.au",
+    "city": "Perth (Northbridge)",
+    "country": "Australia",
+    "to": "hello@twofromtwo.com.au",
+    "email_source_url": "https://www.twofromtwo.com.au/projects",
+    "weakness_evidence": "Squarespace site with default commerce cart link (/cart, shown as '[0]') in the main nav although the studio sells nothing; no shop pages. Footer has no copyright/legal line.",
+    "subject": "two from two site",
+    "body": "Hi Two from Two team,\n\nYour work for Little Creatures Brewing, Snake + Herring and Leftfield Coffee is some of the best drinks branding in WA.\n\nOne thing I noticed: your main menu shows an empty shopping cart, a Squarespace default, even though there is nothing to buy. It makes a strong studio look like a template.\n\nI rebuild studio sites on Framer, live in about 7 days at a fixed price.\n\nWant me to show you what Two from Two could look like?\n\nCobi\nCobi Studio"
+  },
+  {
+    "studio": "Touch",
+    "website": "https://www.thetouchagency.co.uk",
+    "city": "Edinburgh",
+    "country": "UK",
+    "to": "martin@thetouchagency.co.uk",
+    "email_source_url": "https://www.thetouchagency.co.uk/",
+    "weakness_evidence": "Journal (https://www.thetouchagency.co.uk/journal/) newest post is 'Scottish Design Awards 2025 – 16.05.25', over 16 months old; generic loading GIF placeholders (pl_460x350.gif) on the work grid; no copyright line in footer.",
+    "subject": "touch site",
+    "body": "Hi Martin,\n\nThe Landfall Gin and Height of Arrows packaging is lovely, and Fruitmarket shows you do culture as well as drinks.\n\nOne thing I noticed: the newest journal post is from May 2025, so the site looks quieter than the studio really is. People looking for a studio often check the news first to see who is active.\n\nI rebuild studio sites on Framer, live in about 7 days at a fixed price, with no retainer.\n\nWant me to show you what Touch could look like?\n\nCobi\nCobi Studio"
+  }
+]

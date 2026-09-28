@@ -1,0 +1,62 @@
+[
+  {
+    "studio": "SolarSub",
+    "website": "https://www.solarsub.co.uk/",
+    "city": "Edinburgh (Loanhead)",
+    "country": "United Kingdom",
+    "to": "contact@solarsub.co.uk",
+    "email_source_url": "https://www.solarsub.co.uk/contact",
+    "news_url": "https://edinburgh-innovations.ed.ac.uk/news/student-startup-solarsub-raises-1-3m-for-solar-panel-technology",
+    "weakness_evidence": "Contact page HTML contains a leftover template link mailto:email@example.com; a shop cart icon sits in the top nav of a B2B cleantech site (Squarespace default); no copyright line in footer.",
+    "subject": "solarsub site",
+    "body": "Hi Sebastiaan,\n\nCongrats on the £1.34m round led by Sustainable Ventures. Passive cooling that lifted output 17.5% at FloWave is a great story. But your contact page still has a placeholder email@example.com link, and a shop cart icon sits in the menu. Investors and solar operators are checking you out now. I build startup sites on Framer, live in about 7 days at a fixed price, and your team can edit everything. Want me to show you what SolarSub could look like?\n\nCobi\nCobi Studio"
+  },
+  {
+    "studio": "Respiratory Analytics (aflo)",
+    "website": "https://afloanalytics.com/",
+    "city": "Derry/Londonderry",
+    "country": "United Kingdom (Northern Ireland)",
+    "to": "susan@afloanalytics.com",
+    "email_source_url": "https://www.afloanalytics.com/contact",
+    "news_url": "https://edoriordan.substack.com/p/the-week-in-irish-startups-aa9",
+    "weakness_evidence": "News page (https://afloanalytics.com/news/) shows only three posts, newest dated 8 June 2021; the Sept 2026 pre-seed is not mentioned anywhere. WordPress 'twenty-one' theme, no copyright/legal line in footer.",
+    "subject": "aflo site",
+    "body": "Hi aflo team,\n\nCongrats on the £1.2m pre-seed led by Angel Academe. The patient quote about playing 5-a-side again says a lot about aflo. But your News page still stops at June 2021, so investors, clinicians and hires checking you now see nothing from the last five years. I build startup sites on Framer, live in about 7 days at a fixed price, and your team can edit everything. Want me to show you what aflo could look like?\n\nCobi\nCobi Studio"
+  },
+  {
+    "studio": "Atlas Quant",
+    "website": "https://www.atlasquant.io/",
+    "city": "London",
+    "country": "United Kingdom",
+    "to": "info@atlasquant.io",
+    "email_source_url": "https://www.atlasquant.io/",
+    "news_url": "https://www.uktechnews.info/2026/09/25/atlas-quant-secures-pre-seed-investment-from-undisclosed-investors/",
+    "weakness_evidence": "Thin one-page site: navigation is only two in-page anchors ('Why Atlas Quant?', 'How it works') plus LinkedIn; no about/team page and no founder names despite claiming a team from Morgan Stanley, AWS and Caxton; no copyright line in footer.",
+    "subject": "atlas quant site",
+    "body": "Hi Atlas Quant team,\n\nCongrats on the pre-seed round. Having $70B+ AUM in live production already is a strong start. But the site is one page, the menu only jumps to two sections, and there is no team page, even though you mention Morgan Stanley and Caxton. Allocators will want to see who is behind it. I build startup sites on Framer, live in about 7 days at a fixed price, and your team can edit everything. Want me to show you what Atlas Quant could look like?\n\nCobi\nCobi Studio"
+  },
+  {
+    "studio": "VetPal",
+    "website": "https://www.vetpal.ie/",
+    "city": "Roscommon",
+    "country": "Ireland",
+    "to": "support@vetpal.ie",
+    "email_source_url": "https://www.vetpal.ie/",
+    "news_url": "https://www.siliconrepublic.com/start-ups/roscommons-vetpal-wins-top-ei-pitching-award-at-ploughing-2026-ai-agritech-green-innovation",
+    "weakness_evidence": "One-page site: 'About us' is an in-page anchor; the footer 'Terms of Use' link points back to the homepage (https://vetpal.ie); Facebook/Twitter/LinkedIn icons have no href; no founders or team named anywhere; 'Support' is only a mailto link.",
+    "subject": "vetpal site",
+    "body": "Hi Alan,\n\nCongrats on winning Start-Up of the Year at the Ploughing Innovation Arena. One prescription workflow for farmers, vets and co-ops is a real fix. But on your site the Terms of Use link loops back to the homepage, the social icons go nowhere, and no team is named. Co-ops and vets will check you after the win. I build startup sites on Framer, live in about 7 days at a fixed price, and your team can edit everything. Want me to show you what VetPal could look like?\n\nCobi\nCobi Studio"
+  },
+  {
+    "studio": "Axo Longevity",
+    "website": "https://www.axolongevity.com/",
+    "city": "London (UK +44 20 number on site; operates in 6 European markets)",
+    "country": "United Kingdom",
+    "to": "concierge@axolongevity.com",
+    "email_source_url": "https://www.axolongevity.com/",
+    "news_url": "https://www.startupmag.co.uk/funding/axo-longevity-2026-seed-funding/",
+    "weakness_evidence": "Footer still reads '© 2025 Axo Longevity. All rights reserved.' in late Sept 2026, right after the seed announcement; no founders shown on the homepage (only advisors).",
+    "subject": "axo site",
+    "body": "Hi Andrew,\n\nCongrats on the £3.7m seed led by MS&AD Ventures and Izou Partners. 100+ biomarkers twice a year, with advisors like Andy Walshe, is a strong offer. But your site footer still says © 2025. As you expand into the Nordics, Italy and Portugal, new members and hires will check the site first. I build startup sites on Framer, live in about 7 days at a fixed price, and your team can edit everything. Want me to show you what Axo could look like?\n\nCobi\nCobi Studio"
+  }
+]
