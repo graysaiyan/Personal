@@ -1,0 +1,141 @@
+{
+  "design": [
+    {
+      "studio": "Subplot Design Inc.",
+      "website": "https://www.subplot.com/",
+      "city": "Vancouver",
+      "country": "Canada",
+      "to": "matthew@subplot.com",
+      "email_source_url": "https://www.subplot.com/",
+      "weakness_evidence": "Homepage footer copyright graphic reads 'Website 2011-2021 Copyright'; site's own RSS newsfeed (subplot.com/newsfeed_admin/?feed=rss2) lastBuildDate 15 May 2024, newest post May 2024; null.gif placeholder images; hash-bang (#!/) navigation. Activity: designed Canada Post Hanukkah 2025 and Graphic Novelists 2025 stamps (Nov 2025). Email is the mailto on the homepage 'Set up an introductory chat here' link.",
+      "subject": "subplot site",
+      "body": "Hi Matthew,\n\nYour Canada Post work, from the 2025 Hanukkah stamp to the Graphic Novelists issue, is beautifully judged.\n\nOne thing I noticed: your footer still reads \"Website 2011-2021\" and the newsfeed stops in May 2024. Prospective clients may think the studio has gone quiet.\n\nI rebuild studio sites on Framer, live in about 7 days at a fixed price.\n\nWant me to show you what Subplot could look like?\n\nCobi\nCobi Studio",
+      "flag": ""
+    },
+    {
+      "studio": "Farrow",
+      "website": "https://www.farrowdesign.com/",
+      "city": "London",
+      "country": "UK",
+      "to": "mark@farrowdesign.com",
+      "email_source_url": "https://www.farrowdesign.com/",
+      "weakness_evidence": "Homepage footer reads 'All images copyright Farrow Design Ltd \u00a92020'; homepage is an image grid with no project titles, years or case-study text (per fetch); blog pages indexed date from c.2010. Activity: designed 'Volume', the Thames & Hudson book of 40 years of Pet Shop Boys design (Creative Review, 14 Apr 2026). Homepage lists studio@, mark@, gary@farrowdesign.com.",
+      "subject": "farrow site",
+      "body": "Hi Mark,\n\nVolume, the book of forty years of Pet Shop Boys artwork, is a remarkable record of your work.\n\nOne thing I noticed: your footer still says \u00a92020, and the homepage grid shows no project names. New clients can't tell what is recent or who it was for.\n\nI rebuild studio sites on Framer, live in about 7 days at a fixed price.\n\nWant me to show you what Farrow could look like?\n\nCobi\nCobi Studio",
+      "flag": ""
+    },
+    {
+      "studio": "Neil Pardington Design",
+      "website": "https://neilpardingtondesign.com/",
+      "city": "Wellington",
+      "country": "New Zealand",
+      "to": "neil@neilpardington.com",
+      "email_source_url": "https://neilpardingtondesign.com/contact",
+      "weakness_evidence": "Site is a stock Adobe Portfolio template; footer on every page reads 'Powered by Adobe Portfolio'. Newest projects on homepage are 2024; 'Fiona Pardington: Taharaki Skyside' (Best Awards 2026 finalist) and 'Leslie Adkin: Farmer Photographer' (2025 finalist) do not appear anywhere on the homepage. Activity: Best Awards entries in 2025 and 2026 (bestawards.co.nz/studios/neil-pardington-design/).",
+      "subject": "neil pardington design site",
+      "body": "Hi Neil,\n\nToi Te Mana is stunning book design, and the Oi Manawa memorial graphics are quietly powerful.\n\nOne thing I noticed: your site is a stock Adobe Portfolio template, and Taharaki Skyside, this year's Best Awards finalist, isn't on it. Your best recent work stays hidden.\n\nI rebuild studio sites on Framer, live in about 7 days at a fixed price.\n\nWant me to show you what Neil Pardington Design could look like?\n\nCobi\nCobi Studio",
+      "flag": ""
+    },
+    {
+      "studio": "Curio Studio",
+      "website": "https://curiostudio.ca/",
+      "city": "Edmonton",
+      "country": "Canada",
+      "to": "hello@curiostudio.ca",
+      "email_source_url": "https://curiostudio.ca/",
+      "weakness_evidence": "Bottom of the live homepage shows a PHP error (seen on two separate fetches): 'Fatal error: Uncaught wfWAFStorageFileException: Unable to save temporary file for atomic writing.' (Wordfence plugin failure). Activity: blog posts Sept 2025, Dec 2025 and March 2026 on the homepage.",
+      "subject": "curio studio site",
+      "body": "Hi Curio Studio team,\n\nYour work for the Edmonton Folk Music Festival and the Royal Alberta Museum shows real range.\n\nOne thing I noticed: your homepage currently ends with a Wordfence \"Fatal error\" message. A visible server error makes a polished studio look unmaintained.\n\nI rebuild studio sites on Framer, live in about 7 days at a fixed price.\n\nWant me to show you what Curio Studio could look like?\n\nCobi\nCobi Studio",
+      "flag": ""
+    },
+    {
+      "studio": "Tangent",
+      "website": "https://tangentgraphic.co.uk/",
+      "city": "Glasgow",
+      "country": "UK",
+      "to": "info@tangentgraphic.co.uk",
+      "email_source_url": "https://tangentgraphic.co.uk/",
+      "weakness_evidence": "Homepage is a 'Site in development' holding page; the real portfolio sits at /archive-home, and its journal (tangentgraphic.co.uk/journal) stops at October 2024; only image timestamp on the homepage is Nov 2020. Activity: designed the Glasgow 850 celebration brand used through Glasgow's 850th-anniversary year in 2025 (journal post 'Glasgow's turning 850!'). No 2025/2026-dated post on their own site.",
+      "subject": "tangent site",
+      "body": "Hi Tangent team,\n\nPeople Make Glasgow is one of the best city brands in the UK, and Glasgow 850 carried it on beautifully.\n\nOne thing I noticed: your homepage is a \"Site in development\" holding page, and the archived journal stops in October 2024. Visitors may assume the studio has paused.\n\nI rebuild studio sites on Framer, live in about 7 days at a fixed price.\n\nWant me to show you what Tangent could look like?\n\nCobi\nCobi Studio",
+      "flag": "Optional: no 2025-26 activity found on their own site."
+    }
+  ],
+  "film": [
+    {
+      "studio": "Point of View Productions",
+      "website": "https://www.pointofview.co.nz/",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "to": "info@pointofview.co.nz",
+      "email_source_url": "https://pointofview.co.nz/Point_of_View_Contact.html",
+      "weakness_evidence": "Homepage still reads \"'Tom Who?', our lastest documentary, will premiere at NZIFF\" (Tom Who? is c.2016, typo included) and has no mention of Anchor Me: The Story of Don McGlashan, which premiered at NZIFF Auckland (Civic) on 9 Aug 2025. No film on the homepage carries a year; Updates page still lists the McGlashan doc as in production. Old static-HTML site (mixed .htm/.html pages, no footer).",
+      "subject": "point of view site",
+      "body": "Hi Shirley,\n\nAnchor Me at the Civic made it thirteen NZIFF films, after Tom Who? and Early Days Yet. The site still calls Tom Who? your latest documentary, though, and Anchor Me isn't mentioned. A funder checking you out would think you stopped years ago.\n\nI rebuild production-company sites on Framer, live in about 7 days at a fixed price.\n\nWant me to show you what Point of View could look like?\n\nCobi\nCobi Studio",
+      "flag": ""
+    },
+    {
+      "studio": "White Pine Pictures",
+      "website": "https://www.whitepinepictures.com/",
+      "city": "Toronto / London, Ontario",
+      "country": "Canada",
+      "to": "info@whitepinepictures.com",
+      "email_source_url": "https://www.whitepinepictures.com/",
+      "weakness_evidence": "Live homepage displays the raw Squarespace editor notice: \"This newsletter signup form needs a storage option. Edit the block and enter a storage location via the Storage tab.\" No copyright line in footer; repeated navigation blocks. Active: Digital Tsunami poster dated 2025-04-27; Plastic People cited in Variety's 2024 best documentaries.",
+      "subject": "white pine pictures site",
+      "body": "Hi White Pine Pictures team,\n\nDigital Tsunami, Ice-Breaker and Plastic People making Variety's 2024 best-docs list is a seriously strong slate. The site shows a raw Squarespace error on the homepage, though, \"This newsletter signup form needs a storage option\". A broadcaster checking you out sees an unfinished page first.\n\nI rebuild production-company sites on Framer, live in about 7 days at a fixed price.\n\nWant me to show you what White Pine could look like?\n\nCobi\nCobi Studio",
+      "flag": ""
+    },
+    {
+      "studio": "Minerva Productions",
+      "website": "https://minervaproductions.co.nz/",
+      "city": "New Zealand (city not stated on site; likely Auckland)",
+      "country": "New Zealand",
+      "to": "info@minervaproductions.co.nz",
+      "email_source_url": "https://minervaproductions.co.nz/contact/",
+      "weakness_evidence": "Footer on every page reads \"\u00a92024 Minerva Productions. All rights reserved\". The Tenor: My Name Is Pati project page only says \"COMPLETED\" with no release date, box office or festival info, even though the film passed NZ$1M at the NZ box office (Screen Guild, 29 Apr 2026) and is screening at VIFF 2026. Portfolio items on the homepage have no years.",
+      "subject": "minerva productions site",
+      "body": "Hi Rebecca,\n\nTenor: My Name Is Pati passing $1 million at the New Zealand box office, after The Heart Dances, is a huge result. The site still lists Tenor simply as \"COMPLETED\", though, with no box office news and a 2024 footer. A funder checking you out misses your biggest year.\n\nI rebuild production-company sites on Framer, live in about 7 days at a fixed price.\n\nWant me to show you what Minerva could look like?\n\nCobi\nCobi Studio",
+      "flag": "Weaker: site is clean, just out of date; The Heart Dances credit not cross-checked."
+    },
+    {
+      "studio": "Waterbyrd Filmz",
+      "website": "https://waterbyrdfilmz.com.au/",
+      "city": "Melbourne (not stated on site)",
+      "country": "Australia",
+      "to": "nick@wbfilm.org",
+      "email_source_url": "https://waterbyrdfilmz.com.au/",
+      "weakness_evidence": "Homepage is a WordPress poster grid whose newest entry is 2024 (Breakaway Femmes); no news section and no footer/copyright. Nothing about Breakaway Femmes' 2025 releases (Canada-wide cinema screenings 7 Apr 2025; UK screenings e.g. Shrewsbury 27 Oct 2025). Contact is a bare line \"Get in touch: nick@wbfilm.org\".",
+      "subject": "waterbyrd site",
+      "body": "Hi Nick,\n\nMAMIL topping its quarter theatrically, and Breakaway Femmes playing cinemas across Canada and the UK last year, is a lovely run. The site stops at 2024, though, with no news and nothing on those releases. A commissioner checking you out sees a poster wall, not momentum.\n\nI rebuild production-company sites on Framer, live in about 7 days at a fixed price.\n\nWant me to show you what Waterbyrd could look like?\n\nCobi\nCobi Studio",
+      "flag": "Weaker: site is out of date rather than broken; MAMIL credit not cross-checked."
+    },
+    {
+      "studio": "Bildersturm Filmproduktion",
+      "website": "https://www.bildersturm-film.de/home",
+      "city": "Cologne",
+      "country": "Germany",
+      "to": "info@bildersturm-film.de",
+      "email_source_url": "https://www.bildersturm-film.de/home",
+      "weakness_evidence": "Homepage contains both \"steht seit \u00fcber 15 Jahren f\u00fcr engagierte kulturelle und politische Dokumentarfilme\" and \"steht seit \u00fcber 25 Jahren ...\" back to back; still announces Petra Kelly's \"Kinostart im Herbst 2024\" and Filmfest M\u00fcnchen 2024 premiere as upcoming; footer gives L\u00fcbecker Stra\u00dfe 13 while a news item announces the move to Heliosstra\u00dfe 6a, K\u00f6ln-Ehrenfeld; images are unlabelled numbered files. Active: Deutscher Filmpreis 2025 (Petra Kelly - Act Now!), Berlinale 2026 premiere (Was an Empfindsamkeit bleibt).",
+      "subject": "bildersturm site",
+      "body": "Hi Birgit,\n\nA Deutscher Filmpreis for Petra Kelly - Act Now! and a Berlinale 2026 premiere is an enviable run. The site says \"seit \u00fcber 15 Jahren\" and \"seit \u00fcber 25 Jahren\" back to back, though, and still announces Petra Kelly's autumn 2024 release. A commissioner checking you out notices that.\n\nI rebuild production-company sites on Framer, live in about 7 days at a fixed price.\n\nWant me to show you what Bildersturm could look like?\n\nCobi\nCobi Studio",
+      "flag": ""
+    }
+  ],
+  "startups": [
+    {
+      "studio": "Ocean Intelligence",
+      "website": "https://oceanintelligence.io/",
+      "city": "Nelson",
+      "country": "New Zealand",
+      "to": "app@oceanintelligence.io",
+      "email_source_url": "https://oceanintelligence.io/contact",
+      "news_url": "https://www.thesaasnews.com/news/ocean-intelligence-raises-pre-seed-round-to-take-nz-ocean-science-to-australia/",
+      "weakness_evidence": "Fetched 2026-09-30: https://oceanintelligence.io/privacy-policy/ (and without trailing slash) returns HTTP 404, yet it is still indexed by search as 'Privacy Policy - Ocean Intelligence'. Homepage/footer link list contains no privacy or terms link at all, while /contact has a form collecting Name, Email, Organization. Borderline weakness: rest of site (Next.js, 4 pages, (c) 2026) is otherwise clean.",
+      "subject": "ocean intelligence site",
+      "body": "Hi Joel,\n\nCongrats on the pre-seed round led by Quidnet Ventures. One live view of water, forecasts and farm data for shellfish growers is a sharp wedge. On the site, though, there's no privacy policy linked, and the old privacy page still in Google returns a 404. With Australian operators and investors checking you out now, that stands out.\n\nI build startup sites on Framer, live in about 7 days at a fixed price, and your team can edit everything.\n\nWant me to show you what Ocean Intelligence could look like?\n\nCobi\nCobi Studio",
+      "flag": "Optional: thin weakness (missing privacy page only)."
+    }
+  ]
+}
